@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fareedkhaled71&label=Profile%20views&color=0e75b6&style=flat" alt="fareedkhaled71" /> </p>
 
-- 🔭 I’m currently working on [Helwan Securities For Trading](https://helwanbb.com/Home.aspx)
+- 🔭  Currently Data Analyst on [Helwan Securities For Trading](https://helwanbb.com/Home.aspx)
 
 - 📫 How to reach me **fareedkhaled71@gmail.com**
 
