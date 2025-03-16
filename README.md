@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fareed khaled</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">An ambitious Data Analyst based in Cairo, Egypt, with a passion for transforming data into actionable insights. Let's explore the power of data together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fareedkhaled71&label=Profile%20views&color=0e75b6&style=flat" alt="fareedkhaled71" /> </p>
 
