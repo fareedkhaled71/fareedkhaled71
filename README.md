@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fareed khaled</h1>
-<h3 align="center">An ambitious Data Analyst based in Cairo, Egypt, with a passion for transforming data into actionable insights. Let's explore the power of data together!</h3>
+<h3 align="center">   Results-driven Data Engineer and Data Analyst with 3 years of experience across the insurance and financial sectors. Skilled in building ETL workflows and data pipelines using SQL, Python, SSIS, and Apache Airflow, with solid knowledge of Data Warehousing, data modeling, and performance tuning. Experienced in designing and optimizing SQL Server databases, writing complex queries, and improving reporting efficiency. Developed interactive Power BI dashboards that support business intelligence and decision-making, while transforming large datasets into actionable insights that improved accuracy, reduced manual reporting, and increased operational performance. Passionate about delivering scalable data solutions, automation, and data-driven strategy that creates real business impact.  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fareedkhaled71&label=Profile%20views&color=0e75b6&style=flat" alt="fareedkhaled71" /> </p>
 
